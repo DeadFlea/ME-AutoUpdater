@@ -7,7 +7,7 @@
         /// The link to the server's metadata file.
         /// </summary>
         /// TODO change this for the server url
-        public static readonly string PATCH_METADATA = "http://your-server/patchlist.txt";
+        public static readonly string PATCH_METADATA = "https://ulc-games.com/wp-content/uploads/2021/04/patchlist.txt";
 
         /// <summary>
         /// The time (in milliseconds) that the engine will spend sleeping before performing any consistency checks.
